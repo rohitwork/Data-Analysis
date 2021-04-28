@@ -1,6 +1,6 @@
 # Data-Analysis
 
-##Project:-
+## Projects:-
 
 ### Covid-19 Data Analysis
 ### Fifa 2021 Data Analysis
